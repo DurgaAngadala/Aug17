@@ -23,7 +23,7 @@ OUTPUT:
 8
 9
     
-/*c program to print array elements using pointers*/    
+/*c program to print array elements in reverse order using pointers*/    
 
 #include<stdio.h>
 #define N 5
